@@ -56,7 +56,7 @@ border-top-left-radius:0px;background:orange;width:510px;height:100;box-sizing: 
 Clone the repo!
 
 ~~~
-git clone https://github.com/teslonobo/MiniGen.git
+git clone https://github.com/teslonobo/Generators.git
 ~~~
 
 #### Execution
