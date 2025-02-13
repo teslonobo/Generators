@@ -1,4 +1,5 @@
 # MiniGen
+
 <div style='display: flex; justify-content: center; align-items: center;'>
 <img src='assets\password_strength_2x.png' style="width: 400px;"> </img>
 </div>
@@ -6,14 +7,20 @@
 
 ## About
 
-I wanted to create passwords with emojis, and when doing some research I stumbled across the image above and thought hmmmph...... <p style='color:orange;font-size:24px;text-align:center'>***Bada Bing Bada Boom !!!!***</p> A base generator without external dependencies. It can be extended further but its pretty fun to use to quickly create test data. With several types of generators built-in because just stopping at passwords felt alittle lazy.
+I wanted to create passwords with emojis, and when doing some research I stumbled across the image above and thought hmmmph...... 
+
+<p style='color:orange;font-size:24px;text-align:center'>***Bada Bing Bada Boom !!!!***</p> 
+
+A base generator without external dependencies. It can be extended further but its pretty fun to use to quickly create test data. With several types of generators built-in because just stopping at passwords felt alittle lazy.
 
 ## Description
 
 <div style='display: flex; justify-content: center; align-items: center; over-flow:hidden'><div style='border-radius:6px;
 border-top-left-radius:0px;background:orange;width:510px;height:100;box-sizing: border-box;'>
 <img src= 'assets\Main.gif' style='width:100%;border-bottom-right-radius:8px;margin-top:4;border-top-right-radius:8px;border-bottom-left-radius:8px'></img></div></div>
+
 <br>
+
 <p style='text-align:center'>They all have their own Demos available further below.</p>
 
 - Passwords
@@ -110,14 +117,16 @@ border-top-left-radius:0px;background:orange;width:510px;height:100;box-sizing: 
 
 ## Help/Support
 
-Any advise for common problems or issues or want further in-depth explainations reach out to the maintainer:
+Any advice for common problems or issues or want further in-depth explanations reach out to the maintainer:
 
 - [TesloNobo](https://github.com/teslonobo)
 
 ## Roadmap
 
 <div style='text-align:center'>
+    
 <p>This project is open-source. Any feedback and or suggestions are welcomed.</p>
+
 Future features include but not limited to (Subject to Change):
 <p style='color:yellow;'>Currently no plans to extend but STC</p></div>
 
