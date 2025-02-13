@@ -1,0 +1,4 @@
+_old/
+MiniGen/assets/
+*__pycache__/
+MiniGen/tests
